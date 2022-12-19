@@ -1,0 +1,4 @@
+mport platform
+
+x = dir(platform)
+print(x)
